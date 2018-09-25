@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"att",
+				"attendanceCode"
+			],
+			[
+				"Email",
+				"EmailMessage"
+			],
+			[
+				"st",
+				"StandardController"
+			],
+			[
+				"ge",
+				"PUBLIC getSObjectType() \tSchema.SObjectType"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"In",
+				"Integer\t[Standard Apex Class]"
+			],
+			[
+				"newI",
+				"newInvoicePrices"
+			],
+			[
+				"inv",
+				"invoice"
+			],
+			[
+				"pro",
+				"programInfo"
+			],
+			[
+				"Pro",
+				"Program_Information__c"
+			],
+			[
+				"P",
+				"Program_Type__c"
+			],
+			[
+				"progra",
+				"programInfo"
+			],
+			[
+				"ca",
+				"Carryover_Amount__c"
+			],
+			[
+				"R",
+				"Related_Rider_Notes__c"
+			],
+			[
+				"gene",
+				"generateNewInvoices"
+			],
+			[
+				"Re",
+				"Related_Rider_Notes__c"
+			],
+			[
+				"invo",
+				"invoiceTest"
+			],
+			[
+				"full",
+				"fullInvoices"
+			],
+			[
+				"Inv",
+				"Invoice__c"
+			],
+			[
+				"riderNo",
+				"riderNoteMap"
+			],
+			[
+				"riderM",
+				"riderNoteMap"
+			],
+			[
+				"I",
+				"Invoice__c"
+			],
+			[
+				"Page",
+				"Page"
+			],
+			[
+				"EMail",
+				"EmailFileAttachment"
+			],
+			[
+				"Ema",
+				"EmailFileAttachment"
+			],
+			[
+				"em",
+				"EmailFileAttachment"
+			],
+			[
+				"Eam",
+				"EmailFileAttachment"
+			],
+			[
+				"get",
+				"PUBLIC getContent() \tBlob"
+			],
+			[
+				"Sen",
+				"SendEmailResult"
+			],
+			[
+				"S",
+				"PUBLIC serializePretty(Object o) \tString"
+			],
+			[
+				"sen",
+				"SingleEmailMessage"
+			],
+			[
+				"ser",
+				"PUBLIC serializePretty(Object o) \tString"
+			],
+			[
+				"Rider",
+				"Rider__c"
+			],
+			[
+				"Ri",
+				"Rider__c"
+			],
+			[
+				"rider",
+				"riderNoteMap"
+			],
+			[
+				"rid",
+				"Rider_Notes__c"
+			],
+			[
+				"Rider_",
+				"Rider_Notes__c"
+			],
+			[
+				"riderNOte",
+				"riderNoteTest"
+			],
+			[
+				"riderNOt",
+				"riderNoteTest"
+			],
+			[
+				"Rid",
+				"Rider_Notes__c"
+			],
+			[
+				"create",
+				"createRiders"
+			],
+			[
+				"se",
+				"PUBLIC serializePretty(Object o) \tString"
+			],
+			[
+				"riderNote",
+				"riderNoteMap"
+			],
+			[
+				"put",
+				"PUBLIC put(ANY key, ANY value) \tString"
+			],
+			[
+				"riderIn",
+				"riderInv"
+			],
+			[
+				"p",
+				"PUBLIC put(ANY key, ANY value) \tString"
+			],
+			[
+				"rideri",
+				"riderId"
+			],
+			[
+				"L",
+				"Lesson_Type__c"
+			],
+			[
+				"Pr",
+				"Program_Type__c"
+			],
+			[
+				"Id",
+				"Id"
+			],
+			[
+				"riderI",
+				"riderInvoicesMap"
+			],
+			[
+				"new",
+				"newRiderInvoices"
+			],
+			[
+				"gen",
+				"generateNewInvoices"
+			],
+			[
+				"St",
+				"Status__c"
+			],
+			[
+				"Invoi",
+				"Invoices__r"
+			],
+			[
+				"riderNot",
+				"riderNoteMap"
+			],
+			[
+				"Scr",
+				"Screening"
+			],
+			[
+				"Progr",
+				"Program__c"
+			],
+			[
+				"Ride",
+				"Rider__c"
+			],
+			[
+				"first",
+				"firstRiderInvoice"
+			],
+			[
+				"genera",
+				"generateNewInvoices"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"all",
+				"allRiderInvoices"
+			],
+			[
+				"inser",
+				"insertAllInvoices"
+			],
+			[
+				"Rider__",
+				"Rider__c"
+			],
+			[
+				"Scre",
+				"Screening_Complete__c"
+			],
+			[
+				"Bu",
+				"ButtonHandler"
+			],
+			[
+				"con",
+				"PUBLIC contains(String str) \tBoolean"
+			],
+			[
+				"set",
+				"PUBLIC setAnchor(String anchor) \tSystem.PageReference"
+			],
+			[
+				"head",
+				"headerValue\t(String)"
+			],
+			[
+				"Hea",
+				"headerValue\t(String)"
+			],
+			[
+				"page",
+				"apex:pageBlock"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"invoice",
+				"invoiceIds"
+			],
+			[
+				"rend",
+				"renderAs\t(String)"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"out",
+				"apex:outputText"
+			],
+			[
+				"updat",
+				"updateTest"
+			],
+			[
+				"old",
+				"oldRiderNote"
+			],
+			[
+				"pri",
+				"privateSessionInvoices"
+			],
+			[
+				"ne",
+				"newRiderNote"
+			],
+			[
+				"private",
+				"privateSessionInvoices"
+			],
+			[
+				"priva",
+				"newPrivateSessionInvoices"
+			],
+			[
+				"le",
+				"Lesson_Type__c"
+			],
+			[
+				"Prog",
+				"Program_Type__c"
+			],
+			[
+				"Se",
+				"Session_Price__c"
+			],
+			[
+				"price",
+				"priceOfSession"
+			],
+			[
+				"invoices",
+				"invoicesToUpdate"
+			],
+			[
+				"RID",
+				"Rider_Notes__c"
+			],
+			[
+				"riderN",
+				"riderNoteTest"
+			],
+			[
+				"invoi",
+				"invoiceCount"
+			],
+			[
+				"ass",
+				"assertEquals()"
+			],
+			[
+				"cre",
+				"createInvoice"
+			],
+			[
+				"createI",
+				"createInvoices"
+			],
+			[
+				"scre",
+				"screenedRiders"
+			],
+			[
+				"priv",
+				"privateInvoice"
+			],
+			[
+				"privat",
+				"privateSessionInvoices"
+			],
+			[
+				"creat",
+				"createRiderNotes"
+			],
+			[
+				"tes",
+				"TestFactory"
+			],
+			[
+				"screen",
+				"screenedInvoice"
+			],
+			[
+				"ride",
+				"riderNoteTest"
+			],
+			[
+				"ri",
+				"Rider_Notes__c"
+			],
+			[
+				"check",
+				"checkRiderNotes"
+			],
+			[
+				"Tst",
+				"TestFactory"
+			],
+			[
+				"test",
+				"testMethod"
+			],
+			[
+				"sc",
+				"screeningRiderNote"
+			],
+			[
+				"createScr",
+				"createScreenedRiders"
+			],
+			[
+				"scree",
+				"screenedRiders"
+			],
+			[
+				"cont",
+				"Contact"
+			],
+			[
+				"nu",
+				"numRiderNotes"
+			],
+			[
+				"crea",
+				"createRiderNotes"
+			],
+			[
+				"numRi",
+				"numRiderNotes"
+			],
+			[
+				"createRi",
+				"createRiderNotes"
+			],
+			[
+				"Test",
+				"TestFactory"
+			],
+			[
+				"debit",
+				"debitAmount"
+			],
+			[
+				"A",
+				"Actual_Amount__c"
+			],
+			[
+				"credit",
+				"creditAmount"
+			],
+			[
+				"Sessi",
+				"Session_Price__c"
+			],
+			[
+				"session",
+				"sessionPrice"
+			],
+			[
+				"de",
+				"debitCreditInvoices"
+			],
+			[
+				"debi",
+				"debitCreditInvoices"
+			],
+			[
+				"Ac",
+				"Actual_Amount__c"
+			],
+			[
+				"dbit",
+				"debitOrCredit"
+			],
+			[
+				"Riders",
+				"Riders__c"
+			],
+			[
+				"Sessio",
+				"Price_per_Session__c"
+			],
+			[
+				"re",
+				"Related_Rider_Notes__c"
+			],
+			[
+				"F",
+				"Fee__c"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 258.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ugutierrez/Documents/df18 demo"
+	],
+	"file_history":
+	[
+		"/Users/ugutierrez/Downloads/MavensMate-Desktop-master/README.md",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/ApplicationWS.cls",
+		"/private/var/folders/fr/xr1hscw52yv3s0_c_96m13y5v3q063/T/com.microsoft.Outlook/Outlook Temp/ApplicationWS_TEST.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/DocumentCategoryUtil_TEST.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/DocumentCategoryUtil.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/DocumentCategoryHandler.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/ApplicantUtil.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/DocumentCategoryHandler.cls-meta.xml",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/Utilities.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/TestFactory.cls",
+		"/Users/ugutierrez/salesforce-projects/scip-whitebox-qa/src/classes/DescribeUtil.cls",
+		"/Users/ugutierrez/salesforce-projects/scip-whitebox-qa/src/classes/CollaboratorContact_Mock.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/ApplicationTriggerHelper.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/ApplicationDocumentTriggerHandler.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/ApplicantUtil_TEST.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/ApplicantTriggerHandler.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/AnnualRebateLimitTriggerCheck_TEST.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/AnnualRebateLimitTriggerCheck.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/AnnualRebateLimitCheck_TEST.cls",
+		"/Users/ugutierrez/salesforce-projects/fcip-whitebox-qa/src/classes/AnnualRebateLimitCheck.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/sendInvoiceExtension_TEST.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/RiderNoteTriggerHandler.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/RiderNoteTriggerHandler_TEST.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/TestFactory.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/pages/Send_Invoices.page",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/SendInvoiceExtension.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/email/unfiled$public/Email_with_Invoice_pdf.email",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/components/Invoice.component",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/ButtonHandler.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/staticresources/stylesheet.resource",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/TriggerHandler_TEST.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/triggers/RiderTrigger.trigger",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/RiderTriggerHandler.cls",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/pages/InvoicePDF.page",
+		"/Users/ugutierrez/Documents/projects/Root Farm/src/classes/InvoiceController.cls",
+		"/Users/ugutierrez/Desktop/ParkService.xml",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/AnimalsCallouts.cls",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/AccountEdit.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/AnimalLocatorMock.cls",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/AnimalLocatorTest.cls",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/AnimalLocator.cls",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/ContactsListWithController.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/ContactsListController.cls",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/NewCaseListController.cls",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/NewCaseList.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/AccountList.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/jQueryMobileResources.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/ShowImage.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/HelloJQuery.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/pages/ContactList.page",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/triggers/ClosedOpportunityTrigger.trigger",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/triggers/AccountAddressTrigger.trigger",
+		"/Users/ugutierrez/Documents/projects/TestingDevEdition/src/classes/TestAccounts.cls"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "df18 demo.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 402.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

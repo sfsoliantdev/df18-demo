@@ -1,0 +1,17 @@
+{
+    "projectName": "df18 demo",
+    "username": "ugutierrez@gittutorial.com",
+    "id": "c129c450-c104-11e8-8196-6b8c13c509b3",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na57.salesforce.com",
+    "workspace": "/Users/ugutierrez/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
